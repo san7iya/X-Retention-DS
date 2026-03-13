@@ -1,0 +1,17 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache and tooling artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Local data artifacts
+*.parquet
